@@ -1,4 +1,6 @@
-### Hi there 👋
+# Studying Computer Science at AGH University of Science and Technology 
+### Recent project: ML_LIB
+
 
 <!--
 **krajewskiML/krajewskiML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
