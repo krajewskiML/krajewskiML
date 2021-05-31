@@ -1,5 +1,6 @@
 # Studying Computer Science and Intelligent Systems  at AGH University of Science and Technology 
-### Recent project: ML_LIB
+## Recent project: ML_LIB
+## Interested in Reinforcement learning
 
 
 <!--
