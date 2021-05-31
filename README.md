@@ -1,4 +1,4 @@
-# Studying Computer Science at AGH University of Science and Technology 
+# Studying Computer Science and Intelligent Systems  at AGH University of Science and Technology 
 ### Recent project: ML_LIB
 
 
